@@ -5,7 +5,7 @@
 - real-time.py: file chạy chương trình
 - requirements.txt: file chứa các thư viện cần cài đặt để chạy chương trình
 ### Cài đặt và sử dụng
-- (Tùy ý): Tạo và kích hoạt môi trường ảo python
+- (Tùy ý): Tạo và kích hoạt môi trường ảo python: gõ lệnh "python -m venv myenv" vào terminal, vào thư mục myenv -> scripts, kéo file active.ps1 vào terminal rồi enter
 - Gõ lệnh "pip install -r requirements.txt" để cài đặt thư viện cần thiết
 - Chạy file "real-time.py" để sử dụng chương trình
 - Nhấn "q" để tắt chương trình 
